@@ -37,4 +37,4 @@ I have hands-on experience with a wide range of web technologies and frameworks.
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KentXStuuki&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eljan123&theme=dark&hide_border=true)](https://git.io/streak-stats)
