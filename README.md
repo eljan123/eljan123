@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Dev+Student+%F0%9F%93%9A;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+%F0%9F%93%96;Let%27s+Build+Something+Cool!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋 I'm Eljan</h1>
 <p align="center">💻 Web Dev Student | 🧠 Full-stack Dev | 🛠️ Builder of Things | 🎮 Gamer</p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Dev+Student+%F0%9F%93%9A;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+%F0%9F%93%96;Let%27s+Build+Something+Cool!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
