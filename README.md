@@ -60,16 +60,14 @@ A modern, cross-platform **note-taking app** that combines productivity tools in
 ---
 
 ## 📈 GitHub Stats
-
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</p>
 <p align="center">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=eljan123&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eljan123&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=eljan123&show_icons=true" />
 </picture>
@@ -79,9 +77,7 @@ A modern, cross-platform **note-taking app** that combines productivity tools in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljan123&layout=donut" alt="Top Languages">
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eljan123" alt="GitHub Streak" /></a>
-</p>
+
 
 ---
 
