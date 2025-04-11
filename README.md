@@ -79,6 +79,10 @@ A modern, cross-platform **note-taking app** that combines productivity tools in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljan123&layout=donut" alt="Top Languages">
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eljan123" alt="GitHub Streak" /></a>
+</p>
+
 ---
 
 ## 🏆 GitHub Achievements
