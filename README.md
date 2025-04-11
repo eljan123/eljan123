@@ -51,6 +51,18 @@ A modern, cross-platform **note-taking app** that combines productivity tools in
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="100" alt="Quickdraw badge"/>
+</p>
+
+- 🏹 **Quickdraw** – Closed an issue or pull request within **5 minutes** of opening  
+  > Speed and precision — you’re fast and you’re accurate.  
+  > Keep dominating the issue tracker!
+
+---
+
 ## 📚 Currently Learning
 
 - ⚛️ **Next.js** – Full-stack React framework  
