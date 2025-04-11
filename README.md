@@ -75,9 +75,10 @@ A modern, cross-platform **note-taking app** that combines productivity tools in
 </picture>
 </p>
 
-<section align="center">
-  [![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=eljan123&layout=donut)](https://github.com/eljan123/github-readme-stats)
-</section>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljan123&layout=donut" alt="Top Languages">
+</p>
+
 ---
 
 ## 🏆 GitHub Achievements
