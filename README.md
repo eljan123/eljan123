@@ -1,82 +1,107 @@
-# 👋 Hi there, I'm Eljan!
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋 I'm Eljan</h1>
+<p align="center">💻 Web Dev Student | 🧠 Full-stack Dev | 🛠️ Builder of Things | 🎮 Gamer</p>
 
-## 💻 About Me
-- 🎓 Web Development student at **Holy Angel University**
-- 🔧 Front-end & Back-end Developer (Full-stack)
-- 🚀 Passionate about building modern web apps and improving my craft
-- 🎮 Gamer | 🏀 Hooper | 📺 Anime fan
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Dev+Student+%F0%9F%93%9A;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+%F0%9F%93%96;Let%27s+Build+Something+Cool!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## 👨‍💻 About Me
+
+- 🎓 Studying **Web Development** at Holy Angel University  
+- 🔧 Full-stack developer: **Front-end** + **Back-end**  
+- 🧠 Constantly improving, always learning  
+- 🏀 I enjoy **basketball**, **anime**, and **mobile/PC games**
 
 ---
 
 ## 🚧 Current Project
-### 📝 Novito Note App
-> A powerful, sleek note-taking app built with **Flutter**, designed to help users write, organize, and stay productive.  
-> Features include:
-- 📓 Category-based notes
-- ✅ To-do functionality
-- 🔔 Reminders
-- 🕗 Clock
-- 📅 Calendar integration
 
-Stay tuned — it's under active development!
+### 📝 **Novito Note App** *(Flutter)*
+A modern, cross-platform **note-taking app** that combines productivity tools in one place.
+
+> ✅ Dark Mode • 🗂️ Categories • 🔔 Reminders • 📅 Calendar • ✅ To-Do Lists
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</p>
 
 ---
 
 ## 📚 Currently Learning
-- ⚙️ **Next.js** for full-stack React development  
-- ✨ **TypeScript** to write scalable, maintainable code  
+
+- ⚛️ **Next.js** – Full-stack React framework  
+- 🧠 **TypeScript** – Writing more robust apps  
+- 🎨 Improving UI/UX + Clean Code principles
 
 ---
 
 ## 📈 GitHub Stats
-![eljan123's GitHub stats](https://github-readme-stats.vercel.app/api?username=eljan123&show_icons=true&theme=dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eljan123&show_icons=true&theme=dark" />
+</p>
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eljan-pamintuan-6149641a0/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eljan123)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eljan-pamintuan-6149641a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/eljan123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🎮 Hobbies
-- 🎮 Gaming (Mobile & PC)
-- 🏀 Basketball
-- 📺 Anime
+
+- 🕹️ Gaming (Mobile + Desktop)  
+- 🏀 Playing Basketball  
+- 📺 Watching Anime
 
 ---
 
-## 🎯 Future Goals
-- 🔥 Master **Next.js** & **TypeScript**
-- 🧠 Build scalable web apps & mobile apps
+## 🌱 Future Goals
+
+- 🚀 Master advanced **Web Development**
+- ⚒️ Build more amazing apps using **Next.js** and **TypeScript**
 - 🌍 Contribute to open-source communities
+- ✍️ Launch my personal blog + portfolio
 
 ---
 
-## 📝 Blog (Coming Soon)
-I'll be starting a dev blog soon to share tutorials, experiences, and tips from my journey in web and mobile development.
+## 📘 Blog (Coming Soon)
+
+> A dev log & tutorial blog for my journey, lessons, and side projects 🚀
 
 ---
 
-## 🧠 Fun Fact
-> I'm always exploring new tech — because **learning never stops**!
+## ✨ Fun Fact
+
+> I'm obsessed with finding better ways to **write, refactor, and ship code**.  
+> One line better today than yesterday = win. 💪
+
+---
