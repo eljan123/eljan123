@@ -81,16 +81,6 @@ A modern, cross-platform **note-taking app** that combines productivity tools in
   <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="100" alt="Pull Shark badge"/>
 </p>
 
-- 🏹 **Quickdraw** – Closed an issue or pull request within **5 minutes** of opening  
-  > Speed and precision — you’re fast and you’re accurate.  
-  > Keep dominating the issue tracker!
-
-- 😎 **YOLO** – Merged a pull request without code review  
-  > You live on the edge and trust your gut. Respect.
-
-- 🦈 **Pull Shark** – Merged a pull request  
-  > You’ve got the skills and the commits to prove it.
-
 ---
 
 ## 🌐 Connect With Me
