@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Studying **Web Development** at Holy Angel University  
-- 🔧 Full-stack developer: **Front-end** + **Back-end**  
+- 🔧 Front-end developer
 - 🧠 Constantly improving, always learning  
 - 🏀 I enjoy **basketball**, **anime**, and **mobile/PC games**
 
